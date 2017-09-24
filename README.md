@@ -10,13 +10,13 @@
 Clone this repository:
 
 ```bash
-$ git clone https://github.com/tooky/otb-academy-oct-2015.git
+$ git clone https://github.com/threedaymonk/otb-academy.git
 ```
 
 Change directories so that you're in the project:
 
 ```bash
-$ cd otb-academy-oct-2015
+$ cd otb-academy
 ```
 
 ## Exercises
@@ -30,7 +30,7 @@ exercises or progress. So while we work on an exercise, you should make periodic
 commits saving your work, but DO NOT commit any changes to the `master` branch,
 instead work in your own local branches.
 
-So if we are working on the `bottles` you would 
+So if we are working on the `bottles` you would
 
 ```bash
 $ git checkout master
